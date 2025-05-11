@@ -18,7 +18,7 @@ app = Flask(__name__)
 
 # ========== API KEY SYSTEM ==========
 API_KEYS = {
-    "devthesuperior1234": {"remaining": 30, "total": 30, "created_at": time.time()},
+    "tanish": {"remaining": 30, "total": 30, "created_at": time.time()},
 }
 
 MASTER_KEY = "devthesuperiorontopbxby"
